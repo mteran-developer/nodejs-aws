@@ -1,4 +1,4 @@
-# Node.js - AWS
+# Node.js  -  AWS
 
 ## Prerequisites
 
