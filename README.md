@@ -1,6 +1,4 @@
-# Serverless - AWS Node.js Typescript and awilix
-
-Serverless Framework with TypeScript with n layers architecture.
+# Node.js - AWS
 
 ## Prerequisites
 
